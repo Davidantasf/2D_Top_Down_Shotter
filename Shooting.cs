@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+// Shotting bullets
 public class Shooting : MonoBehaviour
 {
     public Transform firePoint;
