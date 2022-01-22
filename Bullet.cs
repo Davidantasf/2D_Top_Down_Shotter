@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+// Colision effect
 public class Bullet : MonoBehaviour
 {
     public GameObject hitEffect;
